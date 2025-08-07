@@ -49,5 +49,6 @@ yarn start
 
 <h4 align="center">
   <img src="resource/runlocal.png"></img>
+  <br>
   <img src="resource/compilation.png"></img>
 </h4>
