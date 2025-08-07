@@ -47,6 +47,7 @@ yarn start
 ```
 ### Demo testing run in local envioriment
 
-![resource/runlocal.png] [testing-run-port]
-
-!(resource/compilation.png)[compilation-success]
+<h4 align="center">
+  <img src="resource/runlocal.png"></img>
+  <img src="resource/compilation.png"></img>
+</h4>
